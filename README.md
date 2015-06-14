@@ -1,7 +1,7 @@
 # AutoKill
 A simple windows app that can kill selected processes.
 
-HELP
+HELP -- 
 To get the program up and running you can download the repository and find the .exe file.
 It is in bin \AutoKill\AutoKill\bin\Debug\AutoKill
 Double click it and the program should open.
